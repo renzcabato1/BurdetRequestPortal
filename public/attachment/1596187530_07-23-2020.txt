@@ -1,0 +1,37 @@
+Terrence ------------------------
+push pickup portal enhancement
+-assist support (not reflect DO)
+-adjustment TM, admin part for pickup portal 
+-collectors app - salesman collection sched
+-pfmc website upload videos, clean up and optimize website
+-WM completion of module for inspection made by QC
+-SAP API getting of picklist from SAP
+-Plan : simulate put away to picking
+
+
+DEVY ----------------------------
+PLILI support CAF portal access outside
+5s portal attend IKU account concern
+PLILI 2nd session PLILI
+CAF portal CSCI planters presentation w/ AR manager
+CAF portal CSCI planters ongoing dev
+testing activity DRFP and DMS
+attend TSU comments
+Plan add & register planters (hacinda)
+
+
+Renz -------------------------------
+Survey for implementation
+Assist offboaring (TSU)
+SB portal ongoing development - reject per item
+HR portal offboaring adjustments
+HR portal offboaring issue inactive cannot view in HDF
+
+Arjay -----------------------------
+Assist pickup portal customer without code
+Sf enhancement - estimated time schedule itinerary
+percentage schedule per area
+individual performance page
+duration time of travel for visited customer - on-going
+HDF version 2
+
